@@ -39,7 +39,7 @@ A [Symfony Bundle][sf_bundle] is also available.
 ## Installation and Usage
 
 ```console
-$ composer require adrienbrault/instructrice:@dev
+$ composer require kargnas/instructrice
 ```
 
 ```php
