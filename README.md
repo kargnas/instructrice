@@ -38,8 +38,8 @@ A [Symfony Bundle][sf_bundle] is also available.
 
 ## Installation and Usage
 
-```console
-$ composer require kargnas/instructrice
+```bash
+composer require kargnas/instructrice
 ```
 
 ```php
