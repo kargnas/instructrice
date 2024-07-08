@@ -1,5 +1,5 @@
 {
-    "name": "adrienbrault/instructrice",
+    "name": "kargnas/instructrice",
     "description": "Typed LLM Outputs in PHP",
     "license": "MIT",
     "type": "library",
